@@ -1,0 +1,73 @@
+.app {
+  margin: 20px;
+  padding: 10px;
+}
+
+.header-container {
+  background-color: #faebd7;
+  justify-content: space-between;
+  margin: 0 60px;
+  display: flex;
+}
+
+.logo-container {
+  padding: 2%;
+}
+
+.logo {
+  background-color: #faebd7;
+  width: 70px;
+  height: 70px;
+}
+
+.nav-item {
+  display: flex;
+}
+
+.nav-container > ul > li {
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  list-style: none;
+}
+
+.nav-container {
+  padding: 10px;
+}
+
+.body {
+  margin: 10px;
+  padding: 10px;
+}
+
+.search-container {
+  justify-content: end;
+  margin: 0 60px;
+  display: flex;
+}
+
+.res-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.res-card {
+  background-color: #adff2f;
+  border-radius: 5px;
+  width: 300px;
+  min-height: 300px;
+  margin: 5px;
+  padding: 5px;
+  overflow: hidden;
+}
+
+.res-card:hover {
+  cursor: pointer;
+  border: 2px solid brown;
+}
+
+.res-img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

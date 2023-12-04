@@ -1,0 +1,1 @@
+export const logo = "https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-food-logo-png-image_4743675.png";
